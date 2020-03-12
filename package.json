@@ -19,7 +19,7 @@
   "homepage": "https://github.com/TRIF3X/Sprint-Challenge-RDBMS#readme",
   "dependencies": {
     "express": "^4.16.4",
-    "knex": "^0.15.2",
+    "knex": "^0.16.4",
     "sqlite3": "^4.0.4"
   },
   "devDependencies": {
